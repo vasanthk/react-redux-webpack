@@ -5,4 +5,6 @@ Getting started with React Redux and Webpack... Coming soon!
 
 [Playlist](https://www.youtube.com/playlist?list=PLQDnxXqV213JJFtDaG0aE9vqvp6Wm7nBg)
 
+[Full Stack Redux Tutorail](http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html)
+
 [Webpack and React](http://survivejs.com/webpack_react/introduction/)
