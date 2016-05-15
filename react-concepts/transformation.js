@@ -7,5 +7,5 @@ function NameBox(name) {
     return { fontWeight: 'bold', labelContent: name };
 }
 
-//'Sebastian Markbåge' ->
-//{ fontWeight: 'bold', labelContent: 'Sebastian Markbåge' };
+//'Vasa' ->
+//{ fontWeight: 'bold', labelContent: 'Vasa' };
