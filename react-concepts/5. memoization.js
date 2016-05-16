@@ -9,7 +9,7 @@
 function memoize(fn) {
     var cachedArg;
     var cachedResult;
-    return function (arg) {
+    return function(arg) {
         if (cachedArg === arg) {
             return cachedResult;
         }
@@ -34,6 +34,6 @@ function NameAndAgeBox(user, currentTime) {
 
 // We calculate the output of `NameAndAgeBox` twice, so it will call `MemoizedNameBox` twice.
 // However `NameBox` is only going to be called once because its argument has not changed.
-const vasa = {firstName: 'Vasa', lastName: 'K'};
-NameAndAgeBox(vasa, Date.now());
-NameAndAgeBox(vasa, Date.now());
+const sebastian = { firstName: 'Vasa', lastName: 'K' };
+NameAndAgeBox(sebastian, Date.now());
+NameAndAgeBox(sebastian, Date.now());

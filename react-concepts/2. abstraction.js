@@ -9,6 +9,7 @@ function FancyUserBox(user) {
         borderStyle: '1px solid blue',
         childContent: [
             'Name: ',
+            // Embed the render output of `NameBox`.
             NameBox(user.firstName + ' ' + user.lastName)
         ]
     };

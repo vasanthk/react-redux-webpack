@@ -25,7 +25,7 @@ function addOneMoreLike() {
 
 // Init
 FancyNameBox(
-    {firstName: 'Sebastian', lastName: 'Markbåge'},
+    {firstName: 'Vasa', lastName: 'K'},
     likes,
     addOneMoreLike
 );
