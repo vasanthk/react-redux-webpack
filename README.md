@@ -10,3 +10,7 @@ Getting started with React Redux and Webpack... Coming soon!
 [Encapsulation in Redux](http://blog.javascripting.com/2016/02/02/encapsulation-in-redux/)
 
 [Webpack and React](http://survivejs.com/webpack_react/introduction/)
+
+### React Router
+
+[Leveling up with React Router](https://css-tricks.com/learning-react-router/)
