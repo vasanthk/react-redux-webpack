@@ -11,6 +11,10 @@ Getting started with React Redux and Webpack... Coming soon!
 
 [Webpack and React](http://survivejs.com/webpack_react/introduction/)
 
+### Redux
+
+[Learn Redux Video series](https://learnredux.com/)
+
 ### React Router
 
 [Leveling up with React Router](https://css-tricks.com/learning-react-router/)
