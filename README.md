@@ -15,6 +15,10 @@ Getting started with React Redux and Webpack... Coming soon!
 
 [Learn Redux Video series](https://learnredux.com/)
 
+###  Redux Middleware
+
+[Understanding Redux Middleware](https://medium.com/@meagle/understanding-87566abcfb7a#.yrivjv7ma)
+
 ### React-Redux
 
 [`react-redux` source code walk through](https://www.youtube.com/watch?v=VJ38wSFbM3A)
