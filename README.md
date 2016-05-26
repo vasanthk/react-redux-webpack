@@ -21,6 +21,12 @@ Redux middleware is designed by creating functions that can be composed together
 
 [Understanding Redux Middleware](https://medium.com/@meagle/understanding-87566abcfb7a#.yrivjv7ma)
 
+[Exploring Redux Middleware](http://blog.krawaller.se/posts/exploring-redux-middleware/)
+
+[Why do we need middleware for async flow in Redux?](http://stackoverflow.com/questions/34570758/why-do-we-need-middleware-for-async-flow-in-redux)
+
+
+
 [Redux Thunk](http://nojaf.com/2015/12/06/redux-thunk/)
 
 ### React-Redux
