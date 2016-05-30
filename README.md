@@ -36,3 +36,17 @@ Redux middleware is designed by creating functions that can be composed together
 ### React Router
 
 [Leveling up with React Router](https://css-tricks.com/learning-react-router/)
+
+### Testing
+
+[Getting Started with TDD in React](https://semaphoreci.com/community/tutorials/getting-started-with-tdd-in-react)
+
+[UI Testing in React](https://voice.kadira.io/ui-testing-in-react-74fd90a5d58b#.qdkc78scl)
+
+[Test Driven React Tutorial](http://spencerdixon.com/blog/test-driven-react-tutorial.html)
+
+[Testing in React: Getting Off The Ground](https://medium.com/javascript-inside/testing-in-react-getting-off-the-ground-5f569f3088a#.u7mn8bihu)
+
+[Testing React Components Using Shallow Rendering](http://www.randomjavascript.com/2016/01/testing-react-components-using-testing.html)
+
+[Testing Redux Applications](http://randycoulman.com/blog/2016/03/15/testing-redux-applications/)
