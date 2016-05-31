@@ -15,6 +15,8 @@ Getting started with React Redux and Webpack... Coming soon!
 
 [Learn Redux Video series](https://learnredux.com/)
 
+[How to dispatch a Redux action with a timeout?](http://stackoverflow.com/questions/34570758/why-do-we-need-middleware-for-async-flow-in-redux)
+
 ###  Redux Middleware
 
 Redux middleware is designed by creating functions that can be composed together before the main dispatch method is invoked. The dispatch function is responsible for sending actions to one or many reducer functions for state changes. The composed specialized functions around the original dispatch method creates the new middleware capable dispatch method.
@@ -24,8 +26,6 @@ Redux middleware is designed by creating functions that can be composed together
 [Exploring Redux Middleware](http://blog.krawaller.se/posts/exploring-redux-middleware/)
 
 [Why do we need middleware for async flow in Redux?](http://stackoverflow.com/questions/34570758/why-do-we-need-middleware-for-async-flow-in-redux)
-
-
 
 [Redux Thunk](http://nojaf.com/2015/12/06/redux-thunk/)
 
