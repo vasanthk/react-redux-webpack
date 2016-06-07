@@ -31,6 +31,8 @@ Redux middleware is designed by creating functions that can be composed together
 
 [Redux Middleware](http://jonnyreeves.co.uk/2016/redux-middleware/)
 
+[Redux Middleware - Behind the scenes](http://briantroncone.com/?p=529)
+
 ### React-Redux links
 
 [`react-redux` source code walk through](https://www.youtube.com/watch?v=VJ38wSFbM3A)
