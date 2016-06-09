@@ -54,3 +54,7 @@ Redux middleware is designed by creating functions that can be composed together
 [Testing React Components Using Shallow Rendering](http://www.randomjavascript.com/2016/01/testing-react-components-using-testing.html)
 
 [Testing Redux Applications](http://randycoulman.com/blog/2016/03/15/testing-redux-applications/)
+
+### Concepts
+
+[Thoughts on Thunks](https://blog.getify.com/thoughts-on-thunks/)
