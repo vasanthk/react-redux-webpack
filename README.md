@@ -41,6 +41,10 @@ Redux middleware is designed by creating functions that can be composed together
 
 [Leveling up with React Router](https://css-tricks.com/learning-react-router/)
 
+### Redux Sagas
+
+[Master complext Redux workflows with sagas](http://konkle.us/master-complex-redux-workflows-with-sagas/)
+
 ### Testing
 
 [Getting Started with TDD in React](https://semaphoreci.com/community/tutorials/getting-started-with-tdd-in-react)
