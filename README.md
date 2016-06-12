@@ -17,11 +17,48 @@ The whole state of your app is stored in an object tree inside a single store.
 The only way to change the state tree is to emit an action, an object describing what happened.
 To specify how the actions transform the state tree, you write pure reducers.
 
+#### Principles
+
 Single source of truth: The state of your whole application is stored in an object tree within a single store.
 
 State is read-only: The only way to mutate the state is to emit an action, an object describing what happened.
 
 Changes are made with pure functions: To specify how the state tree is transformed by actions, you write pure reducers.
+
+#### Basics
+
+**Actions** 
+
+Are payloads of information that send data from your application to your store. They are the only source of information for the store. You send them to the store using store.dispatch().
+
+**Action Creators**
+
+Action creators are exactly that—functions that create actions. It's easy to conflate the terms “action” and “action creator,” so do your best to use the proper term.
+
+```javascript
+function addTodo(text) {
+  return {
+    type: ADD_TODO,
+    text
+  }
+}
+```
+
+**Bound Action Creators**
+
+You can create a bound action creator that automatically dispatches:
+
+```javascript
+const boundAddTodo = (text) => dispatch(addTodo(text))
+const boundCompleteTodo = (index) => dispatch(completeTodo(index))
+```
+
+Now you’ll be able to call them directly:
+
+```javascript
+boundAddTodo(text)
+boundCompleteTodo(index)
+```
 
 [Learn Redux Video series](https://learnredux.com/)
 
