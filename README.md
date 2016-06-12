@@ -60,6 +60,19 @@ boundAddTodo(text)
 boundCompleteTodo(index)
 ```
 
+**Reducers**
+
+Actions describe the fact that something happened, but don’t specify how the application’s state changes in response. This is the job of a reducer.
+
+Things you should never do inside a reducer:
+
+Mutate its arguments;
+
+Perform side effects like API calls and routing transitions;
+
+Call non-pure functions, e.g. Date.now() or Math.random().
+
+
 [Learn Redux Video series](https://learnredux.com/)
 
 [How to dispatch a Redux action with a timeout?](http://stackoverflow.com/questions/34570758/why-do-we-need-middleware-for-async-flow-in-redux)
