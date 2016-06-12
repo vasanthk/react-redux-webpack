@@ -13,6 +13,16 @@ Getting started with React Redux and Webpack... Coming soon!
 
 ### Redux
 
+The whole state of your app is stored in an object tree inside a single store.
+The only way to change the state tree is to emit an action, an object describing what happened.
+To specify how the actions transform the state tree, you write pure reducers.
+
+Single source of truth: The state of your whole application is stored in an object tree within a single store.
+
+State is read-only: The only way to mutate the state is to emit an action, an object describing what happened.
+
+Changes are made with pure functions: To specify how the state tree is transformed by actions, you write pure reducers.
+
 [Learn Redux Video series](https://learnredux.com/)
 
 [How to dispatch a Redux action with a timeout?](http://stackoverflow.com/questions/34570758/why-do-we-need-middleware-for-async-flow-in-redux)
