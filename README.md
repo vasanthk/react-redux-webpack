@@ -11,6 +11,8 @@ Getting started with React Redux and Webpack... Coming soon!
 
 [Webpack and React](http://survivejs.com/webpack_react/introduction/)
 
+[React Higher Order Components](http://www.darul.io/post/2016-01-05_react-higher-order-components)
+
 ### Redux
 
 The whole state of your app is stored in an object tree inside a single store.
