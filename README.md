@@ -132,3 +132,5 @@ Redux middleware is designed by creating functions that can be composed together
 [How should I use redux with nested subcomponents that won't be reused?](http://stackoverflow.com/questions/34425741/how-should-i-use-redux-with-nested-subcomponents-that-wont-be-reused)
 
 [How to handle global state data into deeply nested components in Redux?](http://stackoverflow.com/questions/34299460/how-to-handle-global-state-data-into-deeply-nested-components-in-redux)
+
+[Redux + React with only stateless functions](https://github.com/reactjs/redux/issues/1176#issuecomment-167015145)
