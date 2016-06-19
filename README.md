@@ -129,10 +129,21 @@ Redux middleware is designed by creating functions that can be composed together
 
 ### Redux Discussions
 
-## Connecting Redux to React
+#### Connecting Redux to React
 
 [How should I use redux with nested subcomponents that won't be reused?](http://stackoverflow.com/questions/34425741/how-should-i-use-redux-with-nested-subcomponents-that-wont-be-reused)
 
 [How to handle global state data into deeply nested components in Redux?](http://stackoverflow.com/questions/34299460/how-to-handle-global-state-data-into-deeply-nested-components-in-redux)
 
 [Redux + React with only stateless functions](https://github.com/reactjs/redux/issues/1176#issuecomment-167015145)
+
+## Redux Ecosystem Libraries
+
+[Redux Actions](https://github.com/acdlite/redux-actions)
+
+Flux Standard Action utilities for Redux.
+
+[Reduce Reducers](https://github.com/acdlite/reduce-reducers)
+
+Reduce multiple reducers into one from left to right.
+
