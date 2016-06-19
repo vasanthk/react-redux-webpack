@@ -137,7 +137,7 @@ Redux middleware is designed by creating functions that can be composed together
 
 [Redux + React with only stateless functions](https://github.com/reactjs/redux/issues/1176#issuecomment-167015145)
 
-## Redux Ecosystem Libraries
+### Redux Ecosystem Libraries
 
 [Redux Actions](https://github.com/acdlite/redux-actions)
 
