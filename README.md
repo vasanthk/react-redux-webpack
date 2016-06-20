@@ -139,6 +139,16 @@ Redux middleware is designed by creating functions that can be composed together
 
 ### Redux Ecosystem Libraries
 
+[Reselect](https://github.com/reactjs/reselect)
+
+Simple “selector” library for Redux
+
+* Selectors can compute derived data, allowing Redux to store the minimal possible state.
+
+* Selectors are efficient. A selector is not recomputed unless one of its arguments change.
+
+* Selectors are composable. They can be used as input to other selectors.
+
 [Redux Actions](https://github.com/acdlite/redux-actions)
 
 Flux Standard Action utilities for Redux.
