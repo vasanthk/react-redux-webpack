@@ -15,6 +15,8 @@ Getting started with React Redux and Webpack... Coming soon!
 
 [Redux FAQ](http://redux.js.org/docs/FAQ.html)
 
+[Redux without profanity](https://tonyhb.gitbooks.io/redux-without-profanity/content/architecture.html)
+
 ### Redux
 
 The whole state of your app is stored in an object tree inside a single store.
