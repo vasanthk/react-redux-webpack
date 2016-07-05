@@ -129,6 +129,10 @@ Redux middleware is designed by creating functions that can be composed together
 
 [Thoughts on Thunks](https://blog.getify.com/thoughts-on-thunks/)
 
+### Server Rendering
+
+[Should I use Server Side Rendering?](http://andrewhfarmer.com/server-side-render/)
+
 ### Redux Discussions
 
 #### Connecting Redux to React
