@@ -107,6 +107,10 @@ Redux middleware is designed by creating functions that can be composed together
 
 [Leveling up with React Router](https://css-tricks.com/learning-react-router/)
 
+### Redux Form
+
+[Abstracting Form State with Redux Form](https://www.youtube.com/watch?v=eDTi7lYR1VU)
+
 ### Redux Sagas
 
 [Master complext Redux workflows with sagas](http://konkle.us/master-complex-redux-workflows-with-sagas/)
