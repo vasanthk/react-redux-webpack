@@ -111,6 +111,8 @@ Redux middleware is designed by creating functions that can be composed together
 
 [Abstracting Form State with Redux Form](https://www.youtube.com/watch?v=eDTi7lYR1VU)
 
+[Adding A Robust Form Validation To React Redux Apps](https://medium.com/@rajaraodv/adding-a-robust-form-validation-to-react-redux-apps-616ca240c124#.6cfwgnhs6)
+
 ### Redux Sagas
 
 [Master complext Redux workflows with sagas](http://konkle.us/master-complex-redux-workflows-with-sagas/)
