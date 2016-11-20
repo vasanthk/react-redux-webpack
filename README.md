@@ -1,7 +1,7 @@
 # React Redux Webpack
 Getting started with React Redux and Webpack... Coming soon!
 
-[Complete Intro to React](https://btholt.github.io/complete-intro-to-react/)
+[Complete Intro to React](https://btholt.github.io/complete-intro-to-react/all.html)
 
 [Playlist](https://www.youtube.com/playlist?list=PLQDnxXqV213JJFtDaG0aE9vqvp6Wm7nBg)
 
