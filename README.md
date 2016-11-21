@@ -105,6 +105,8 @@ Redux middleware is designed by creating functions that can be composed together
 
 ### React Router
 
+[React Router - Declarative Routing for React](https://react-router.now.sh/)
+
 [Leveling up with React Router](https://css-tricks.com/learning-react-router/)
 
 ### Redux Form
