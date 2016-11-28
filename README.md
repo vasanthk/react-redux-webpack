@@ -117,7 +117,7 @@ Redux middleware is designed by creating functions that can be composed together
 
 ### Redux Sagas
 
-[Master complext Redux workflows with sagas](http://konkle.us/master-complex-redux-workflows-with-sagas/)
+[Master complex Redux workflows with sagas](http://konkle.us/master-complex-redux-workflows-with-sagas/)
 
 ### Testing
 
