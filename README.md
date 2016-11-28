@@ -85,7 +85,7 @@ Call non-pure functions, e.g. Date.now() or Math.random().
 
 ###  Redux Middleware
 
-Redux middleware is designed by creating functions that can be composed together before the main dispatch method is invoked. The dispatch function is responsible for sending actions to one or many reducer functions for state changes. The composed specialized functions around the original dispatch method creates the new middleware capable dispatch method.
+Redux middleware basically provides a third-party extension point between dispatching an action, and the moment it reaches the reducer. It is designed by creating functions that can be composed together before the main dispatch method is invoked. The dispatch function is responsible for sending actions to one or many reducer functions for state changes. The composed specialized functions around the original dispatch method creates the new middleware capable dispatch method.
 
 [Understanding Redux Middleware](https://medium.com/@meagle/understanding-87566abcfb7a#.yrivjv7ma)
 
