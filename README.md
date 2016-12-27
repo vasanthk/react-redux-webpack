@@ -99,6 +99,8 @@ Redux middleware basically provides a third-party extension point between dispat
 
 [Redux Middleware - Behind the scenes](http://briantroncone.com/?p=529)
 
+[Redux Middlware - Mayakumar](https://vmayakumar.wordpress.com/2016/12/27/redux-middleware/)
+
 ### React-Redux links
 
 [`react-redux` source code walk through](https://www.youtube.com/watch?v=VJ38wSFbM3A)
