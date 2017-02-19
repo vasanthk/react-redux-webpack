@@ -13,6 +13,8 @@ Getting started with React Redux and Webpack... Coming soon!
 
 [React Higher Order Components](http://www.darul.io/post/2016-01-05_react-higher-order-components)
 
+[Practical Redux Series](http://blog.isquaredsoftware.com/series/practical-redux/)
+
 [Redux FAQ](http://redux.js.org/docs/FAQ.html)
 
 [Redux without profanity](https://tonyhb.gitbooks.io/redux-without-profanity/content/architecture.html)
