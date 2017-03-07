@@ -9,6 +9,8 @@ Getting started with React Redux and Webpack... Coming soon!
 
 [Encapsulation in Redux](http://blog.javascripting.com/2016/02/02/encapsulation-in-redux/)
 
+[A Detailed Introduction To Webpack](https://www.smashingmagazine.com/2017/02/a-detailed-introduction-to-webpack/)
+
 [Webpack and React](http://survivejs.com/webpack_react/introduction/)
 
 [React Higher Order Components](http://www.darul.io/post/2016-01-05_react-higher-order-components)
