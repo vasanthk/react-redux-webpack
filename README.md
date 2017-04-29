@@ -86,6 +86,7 @@ Perform side effects like API calls and routing transitions;
 
 Call non-pure functions, e.g. Date.now() or Math.random().
 
+[Build yourself a Redux](https://zapier.com/engineering/how-to-build-redux/)
 
 [Learn Redux Video series](https://learnredux.com/)
 
