@@ -25,6 +25,8 @@ Getting started with React Redux and Webpack... Coming soon!
 
 [Best Practices for Writing React Components](https://medium.com/code-life/our-best-practices-for-writing-react-components-dec3eb5c3fc8)
 
+[A Visual Guide to State in React](https://daveceddia.com/visual-guide-to-state-in-react/)
+
 ### Redux
 
 The whole state of your app is stored in an object tree inside a single store.
