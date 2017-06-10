@@ -196,6 +196,8 @@ Reduce multiple reducers into one from left to right.
 
 [Webpack v1: Code splitting](https://webpack.github.io/docs/code-splitting.html)
 
+[Webpack v2: Code splitting](https://webpack.js.org/guides/code-splitting-async/)
+
 [Webpack: Bundle Splitting](https://survivejs.com/webpack/building/bundle-splitting/)
 
 [Vendor and code splitting in webpack 2](https://medium.com/@adamrackis/vendor-and-code-splitting-in-webpack-2-6376358f1923)
