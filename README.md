@@ -188,3 +188,17 @@ Flux Standard Action utilities for Redux.
 
 Reduce multiple reducers into one from left to right.
 
+### Code Splitting
+
+[Code Splitting for React Router with Webpack and HMR](https://hackernoon.com/code-splitting-for-react-router-with-webpack-and-hmr-bb509968e86f)
+
+[Webpack: Code Splitting](https://survivejs.com/webpack/building/code-splitting/)
+
+[Webpack v1: Code splitting](https://webpack.github.io/docs/code-splitting.html)
+
+[Webpack: Bundle Splitting](https://survivejs.com/webpack/building/bundle-splitting/)
+
+[Vendor and code splitting in webpack 2](https://medium.com/@adamrackis/vendor-and-code-splitting-in-webpack-2-6376358f1923)
+
+[Code Splitting for React Router with ES6 Imports](http://moduscreate.com/code-splitting-for-react-router-with-es6-imports/)
+
