@@ -204,3 +204,5 @@ Reduce multiple reducers into one from left to right.
 
 [Code Splitting for React Router with ES6 Imports](http://moduscreate.com/code-splitting-for-react-router-with-es6-imports/)
 
+[Webpack: Code Splitting by Routes](https://medium.com/@puppybits/webpack-code-splitting-by-routes-92f96cf733f2)
+
