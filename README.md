@@ -90,6 +90,8 @@ Call non-pure functions, e.g. Date.now() or Math.random().
 
 [Build yourself a Redux](https://zapier.com/engineering/how-to-build-redux/)
 
+[Code Redux Guide](http://blog.jakoblind.no/code-redux-guide/)
+
 [Learn Redux Video series](https://learnredux.com/)
 
 [How to dispatch a Redux action with a timeout?](http://stackoverflow.com/questions/34570758/why-do-we-need-middleware-for-async-flow-in-redux)
